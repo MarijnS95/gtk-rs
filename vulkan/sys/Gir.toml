@@ -1,0 +1,6 @@
+[options]
+work_mode = "sys"
+library = "Vulkan"
+version = "1.0"
+
+external_libraries = ["GLib"]

@@ -26,6 +26,7 @@ members = [
   "pango/sys",
   "pangocairo",
   "pangocairo/sys",
+  "vulkan/sys",
 ]
 
 exclude = ["gir", "checker"]
