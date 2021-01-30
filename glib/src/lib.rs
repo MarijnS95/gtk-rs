@@ -128,7 +128,6 @@ pub use self::auto::*;
 #[allow(clippy::type_complexity)]
 #[allow(unused_doc_comments)]
 #[allow(non_upper_case_globals)]
-#[allow(unused_imports)]
 mod auto;
 
 pub use self::gobject::*;

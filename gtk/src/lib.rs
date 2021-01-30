@@ -187,7 +187,6 @@ mod rt;
 #[allow(clippy::many_single_char_names)]
 #[allow(clippy::cast_ptr_alignment)]
 #[allow(unused_doc_comments)]
-#[allow(unused_imports)]
 mod auto;
 
 mod accel_group;

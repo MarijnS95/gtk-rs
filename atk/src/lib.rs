@@ -13,7 +13,6 @@ pub use glib;
 #[macro_use]
 mod rt;
 
-#[allow(unused_imports)]
 mod auto;
 
 pub use crate::auto::*;
